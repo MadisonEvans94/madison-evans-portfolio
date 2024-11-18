@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
 				{/* Right Side */}
 				<div className='w-full md:w-1/2 flex justify-center items-center'>
 					<img
-						className='w-64 h-64 md:w-96 md:h-96 bg-green-400'
+						className='w-64 h-64 md:w-96 md:h-96'
 						src=''
 						alt='Profile'
 					/>
