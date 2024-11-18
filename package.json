@@ -1,8 +1,8 @@
 {
-	"name": "web-portfolio",
+	"name": "madison-evans-portfolio",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://MadisonEvans94.github.io/web-portfolio",
+	"homepage": "https://MadisonEvans94.github.io/madison-evans-portfolio",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^13.4.0",
